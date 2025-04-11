@@ -13,6 +13,7 @@
 - 💬 Ask me about: **Web Dev, DSA, React, Node, SQL**
 - ⚡ Fun fact: I can debug HTML in my dreams 😄
 - 🏫 B.Tech in Communication & Computer Engineering at **LNMIIT**
+- [🌐 Portfolio](https://portfolio-six-murex-12.vercel.app/)
 
 ---
 
