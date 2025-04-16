@@ -50,6 +50,8 @@
   <img src="https://leetcard.jacoblin.cool/anshguptahoney?theme=dark&ext=contest" />
 </p>
 
+---
+
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-gupta-0a2761214/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](http://leetcode.com/u/anshguptahoney/)
