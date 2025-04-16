@@ -42,7 +42,13 @@
 - 🥇 **National Semi-Finalist**, Tata Imagination Challenge 2024
 - 💻 Participant at **Execute 4.0 Hackathon** (NSUT)
 
+
 ---
+
+### 📊 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anshguptahoney?theme=dark&ext=contest" />
+</p>
 
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-gupta-0a2761214/)
